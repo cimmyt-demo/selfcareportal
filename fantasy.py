@@ -1,3 +1,4 @@
+# random names generator
 import random
 
 def generate_fantasy_name():
